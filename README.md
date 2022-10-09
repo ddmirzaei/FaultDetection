@@ -13,6 +13,8 @@ This file contains the Matlab code for Examples 1 - 7  of paper
 The user should download all .m files and .mat files and run 'StartRun.m' to see all the results in the above paper. 
 
 ------------
+
 Comment: The function "piecewise.m" which is used to define a mathematical function f that applies different definitions according to supplied
 conditions, is copyrighted by Toby Driscoll from University of Delaware. 
+
 ------------
